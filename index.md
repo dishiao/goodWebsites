@@ -5,3 +5,4 @@
 [各种免费API](https://learnku.com/articles/30329)<br>
 [学习GoLang](https://laravelacademy.org/post/19712.html)<br>
 [普通人当众讲话技能](https://github.com/xiaolai/public-speaking-with-meaning)<br>
+[解析binlog变成SQL](https://github.com/danfengcao/binlog2sql)<br>
