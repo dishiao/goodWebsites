@@ -6,3 +6,4 @@
 [学习GoLang](https://laravelacademy.org/post/19712.html)<br>
 [普通人当众讲话技能](https://github.com/xiaolai/public-speaking-with-meaning)<br>
 [解析binlog变成SQL](https://github.com/danfengcao/binlog2sql)<br>
+[pRedis的操作指南](https://www.cnblogs.com/yhdsir/p/5529207.html)<br>
