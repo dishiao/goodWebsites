@@ -9,3 +9,4 @@
 [pRedis的操作指南](https://www.cnblogs.com/yhdsir/p/5529207.html)<br>
 [微信自动回复](https://github.com/sfyc23/EverydayWechat)<br>
 [电视直播](http://bddn.cn/zb.htm)<br>
+[鸟哥博客](http://www.laruence.com/)<br>
