@@ -10,3 +10,4 @@
 [微信自动回复](https://github.com/sfyc23/EverydayWechat)<br>
 [电视直播](http://bddn.cn/zb.htm)<br>
 [鸟哥博客](http://www.laruence.com/)<br>
+[学习Scrapy](https://scrapy-chs.readthedocs.io/zh_CN/0.24/)<br>
