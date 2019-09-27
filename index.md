@@ -11,3 +11,4 @@
 [电视直播](http://bddn.cn/zb.htm)<br>
 [鸟哥博客](http://www.laruence.com/)<br>
 [学习Scrapy](https://scrapy-chs.readthedocs.io/zh_CN/0.24/)<br>
+[免费天气API](https://www.tianqiapi.com/?action=v1)<br>
