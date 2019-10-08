@@ -12,3 +12,5 @@
 [鸟哥博客](http://www.laruence.com/)<br>
 [学习Scrapy](https://scrapy-chs.readthedocs.io/zh_CN/0.24/)<br>
 [免费天气API](https://www.tianqiapi.com/?action=v1)<br>
+[163 视频学习Scrapy](https://study.163.com/course/introduction.htm?courseId=1004236002#/courseDetail?tab=1)<br>
+[麦子 视频学习Scrapy](http://www.maiziedu.com/course/458/)<br>
