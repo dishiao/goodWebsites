@@ -15,3 +15,4 @@
 [163 视频学习Scrapy](https://study.163.com/course/introduction.htm?courseId=1004236002#/courseDetail?tab=1)<br>
 [麦子 视频学习Scrapy](http://www.maiziedu.com/course/458/)<br>
 [廖雪峰教你学Java](https://www.liaoxuefeng.com/wiki/1252599548343744)<br>
+[百度PHPER总结经验](https://coffeephp.com/articles/4)<br>
